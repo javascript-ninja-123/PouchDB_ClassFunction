@@ -1,0 +1,16 @@
+{
+  "name": "util-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon smart.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pouchdb": "^6.4.3",
+    "uniqid": "^4.1.1"
+  }
+}
